@@ -1,1 +1,3 @@
-# .github
+# Energy Assistant
+
+Test
